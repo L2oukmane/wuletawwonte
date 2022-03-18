@@ -7,7 +7,7 @@
 - I’m constantly learning and improving on new software tools & technologies
 - A graduate of Computer Science from Addis Ababa University, Ethiopia.
 - My hobbies are playing music instruments specially guitar and listening to soul-touching songs
-- You can reach me via mail: wuletawwonte@gmail.com
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/wuletaw-wonte/)
 
 </br>
 
@@ -38,7 +38,13 @@
     </br>
 
 ## Github Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wuletawwonte&theme=tokyonight)](https://git.io/streak-stats)
+<p align="left">
+<a href="https://twitter.com/wuletaww" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wuletaw-wonte/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/wuletawbeza/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCv7IvhJvMwQ8JzqNsHCEOvA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
+
 </br>
 
 <!--
