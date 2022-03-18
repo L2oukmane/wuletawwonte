@@ -9,16 +9,12 @@
 - My hobbies are playing music instruments specially guitar and listening to soul-touching songs
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/wuletaw-wonte/)
 
-</br>
-
 <p align="center">&nbsp;
  
 | Activities |   Languages |
 | ---------- | ----------- |
  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wuletawwonte&show_icons=true&theme=outrun" alt="Wuletaw Wonte" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wuletawwonte&show_icons=true&theme=outrun&layout=compact" alt="Wuletaw Wonte" width="410"/>|
 </p>
-
-</br>
 
 ## Technologies & Tools
 
@@ -35,17 +31,14 @@
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
-    </br>
 
-## Github Streak Stats
+## Connect with me
 <p align="left">
 <a href="https://twitter.com/wuletaww" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/wuletaw-wonte/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.facebook.com/wuletawbeza/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCv7IvhJvMwQ8JzqNsHCEOvA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
-
-</br>
 
 <!--
 **wuletawwonte/wuletawwonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
