@@ -8,9 +8,10 @@
 - A graduate of Computer Science from Addis Ababa University, Ethiopia.
 - My hobbies are playing music instruments specially guitar and listening to soul-touching songs
 - You can reach me via mail: wuletawwonte@gmail.com
+
 </br>
 
-[![Wuletaw's github stats](https://github-readme-stats.vercel.app/api?username=wuletawwonte&show_icons=true&theme=tokyonight)](https://github.com/wuletawwonte/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuletawwonte&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/wuletawwonte/github-readme-stats) 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=wuletawwonte&show_icons=true&theme=outrun" alt="Wuletaw Wonte" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wuletawwonte&show_icons=true&theme=outrun&layout=compact" alt="Wuletaw Wonte" width="410"/>|
 
 </br>
 
