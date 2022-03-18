@@ -11,7 +11,12 @@
 
 </br>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=wuletawwonte&show_icons=true&theme=outrun" alt="Wuletaw Wonte" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wuletawwonte&show_icons=true&theme=outrun&layout=compact" alt="Wuletaw Wonte" width="410"/>|
+<p align="center">&nbsp;
+ 
+| Activities |   Languages |
+| ---------- | ----------- |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wuletawwonte&show_icons=true&theme=outrun" alt="Wuletaw Wonte" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wuletawwonte&show_icons=true&theme=outrun&layout=compact" alt="Wuletaw Wonte" width="410"/>|
+</p>
 
 </br>
 
